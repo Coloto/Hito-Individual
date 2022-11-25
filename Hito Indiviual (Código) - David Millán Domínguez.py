@@ -1,3 +1,4 @@
+# Importante que el codigo se abra en una carpeta con "Open Folder"
 # importaciones
 import datetime
 from datetime import datetime
